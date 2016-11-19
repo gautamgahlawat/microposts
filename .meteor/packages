@@ -26,3 +26,7 @@ accounts-ui
 accounts-password
 joshowens:accounts-entry
 check
+cfs:standard-packages
+cfs:gridfs
+aldeed:collection2
+aldeed:autoform
